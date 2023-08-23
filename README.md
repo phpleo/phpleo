@@ -30,4 +30,5 @@
 ## Web
 
 ### Angular
-- [Playing with Angular Signals](https://github.com/phpleo/playingWithSignals-web-home) - Learning and practicing Angular Signals.
+- [Form field error custom directive](https://github.com/phpleo/formFieldCustomDirective-web-home) - Angular 16 custom directive to display form field errors.
+- [Playing with Angular Signals](https://github.com/phpleo/playingWithSignals-web-home) - Learning and practicing Angular 16 Signals.
