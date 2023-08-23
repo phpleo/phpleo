@@ -26,3 +26,8 @@
 
 
 ## Data, AI and Machine Learning
+
+## Web
+
+### Angular
+- [Playing with Angular Signals](https://github.com/phpleo/playingWithSignals-web-home) - Learning and practicing Angular Signals.
